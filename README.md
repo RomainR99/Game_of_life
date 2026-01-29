@@ -25,10 +25,12 @@ python easy_main.py
 
 ## Interface graphique (Streamlit)
 
+**[▶ Lancer l’app en ligne (Streamlit)](https://gameoflifegit-jqvlahlnm7l3bhakvbeyle.streamlit.app/)**
+
 - **`app.py`** : interface web avec grille 600×600, motif « dragon » (courbe du dragon), bouton *Lancer le jeu de la vie*.
 - **`grid.py`** : grille 600×600 et génération du dragon.
 
-**Lancer l’app :**
+**Lancer l’app en local :**
 
 ```bash
 source venv/bin/activate
